@@ -7,7 +7,7 @@ when solving this kind of problem first we need to understand why are we doing t
 
 Befroe traning the modal using the given data there are processes that needs to be carried out on the data to clean the data for much accurate reuslts, here are processes that carried out on the data set to clean the data.
 
-**Select a performance Measure**
+**Check the Assumptions**
 
 
 ######  Referances- 
